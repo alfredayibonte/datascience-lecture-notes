@@ -8,10 +8,10 @@ Programs consist of variable names, functions, operators etc.
 A variable is a name or placeholder in your RAM/ memory that stores a value.
 
 Variable naming follow some basic rules
-A good variable name must be explanatory.
-A variable name must not start with a number.
-It can start with an alphabet.
-It must have no space. You can use an underscore to make it more readable.
+- A good variable name must be explanatory.
+- A variable name must not start with a number.
+- It can start with an alphabet.
+- It shouldn't have spaces. You can use an underscore to make it more readable.
 When you introduce an underscore in variable naming it is termed as snake case. You can also have camel case to make it readable. ie. firstName.
 We use all caps for constants. Ie PI = 3.142
 
