@@ -16,4 +16,5 @@
   ```
   This is used in situation when you have to delete the last item. You have to stand on the last but one node and unlink the last item. ie. setting the link to None.
 
-
+# DoublyLinkedList
+### [video](https://www.loom.com/share/9e55f65b49454fa68bbe27555b102e72)
